@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="user_email">leon@gmail.com</string>
+    <boolean name="is_logged_in" value="true" />
+    <string name="user_name">leon</string>
+</map>

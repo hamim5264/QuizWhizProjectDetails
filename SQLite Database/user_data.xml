@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="teacher:teacher@gmail.com">teacher</string>
+    <string name="hamimleon:hamimleon@gamil.com">student</string>
+    <string name="rafiul:rafiul@gmail.com:password">rafiul</string>
+    <string name="student1:student1@gmail.com">student</string>
+    <string name="current_user_email">hamimleon@gamil.com</string>
+    <string name="hamimleon:hamimleon@gamil.com:password">hamimleon</string>
+    <string name="Avinandan Roy:abhi@gmail.com">student</string>
+    <string name="teacher2:teacher2@gmail.co">teacher</string>
+    <string name="masud:masud@gmail.com">teacher</string>
+    <string name="current_user_name">hamimleon</string>
+    <string name="rifat:riaf@hotmail.com">student</string>
+    <string name="teacher1:teacher1@gmail.com">teacher</string>
+    <string name="arifteacher:arifteacher@gmail.com:password">arifteacher</string>
+    <string name="rafi:rafi@gmail.com">student</string>
+    <string name="Avinandan Roy:avi@gmail.com">teacher</string>
+    <string name="stu:stu@gmail.com">teacher</string>
+    <string name="rafiul:rafiul@gmail.com">student</string>
+    <string name="avi:avi@gmail.com">student</string>
+    <string name="arifteacher:arifteacher@gmail.com">teacher</string>
+    <string name="current_user_role">student</string>
+</map>
